@@ -1,0 +1,4 @@
+Para poder utilizar correctamente el código de la práctica,
+eliminar el "-1" o "-2" de cada carpeta student en función de si queremos
+ejecutar el problema básico o el avanzado. El básico se encuentra codificado
+en la carpeta "student-1" y el avanzado en "student-2".
